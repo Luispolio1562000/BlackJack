@@ -1,4 +1,4 @@
-#BlackJack Game con Vite.
+# BlackJack Game con Vite.
 
 Pasos para ejecutar el proyecto.
 1. Clonar el repositorio.
