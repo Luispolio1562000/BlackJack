@@ -9,3 +9,6 @@ Pasos para ejecutar el proyecto.
 ## Producción.
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla.
+
+### Proyecto desplegado.
+1. https://luispolio1562000.github.io/BlackJack/
